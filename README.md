@@ -1,8 +1,9 @@
 # Awesome WebXR Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+[<img src="https://github.com/msub2/awesome-webxr/blob/3fdfc1d1745d64cea8bc439fb34c2208342517f6/webxr-logo.svg" align="right" width="100">](https://immersiveweb.dev/)
+### Another curated list of [WebXR](https://github.com/msub2/awesome-webxr) links and resources from another github repository
 <!-- TOC ignore:true -->
+---
 ## Contents
-
 <!-- TOC -->
 
 - [Engine / Framework](#engine--framework)
