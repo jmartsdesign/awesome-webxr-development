@@ -96,6 +96,7 @@ for VR & AR Web Apps
 - [Ethereal Engine](https://www.etherealengine.com/) ![][threejs-badge] - Metaverse infrastructure for everyone. Everything you need to build and deploy scalable realtime 3D social apps and more
 - [Phy](https://github.com/lo-th/phy) ![][threejs-badge] - Phy simplify creation of game, is like a bridge between three.js and physics. Phy support last version of Oimo and Ammo. Now full support of two best engine Physx and Havok
 - [Lattice](https://github.com/unavi-xyz/lattice) - A lightweight, modular, and extendable 3D game engine built for the web. The engine is also highly performant, with speed gains from the ECS architecture and multi-threading via WebWorkers that would be difficult to achieve when using these libraries individually
+- [nunuStudio](https://www.nunustudio.org/) - nunuStudio is an open source game engine for the web it allows designers and web developers to easily develop 3D experiences for the web.
 
 ### Visual Editor
 
